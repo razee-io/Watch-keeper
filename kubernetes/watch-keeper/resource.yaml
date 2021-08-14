@@ -34,6 +34,8 @@ spec:
               valueFrom:
                 fieldRef:
                   fieldPath: metadata.namespace
+            - name: NODE_EXTRA_CA_CERTS
+              value: /home/node/envs/watch-keeper-secret/cacerts.pem
             - name: USER_AGENT_NAME
               value: razee-io/watchkeeper
             - name: USER_AGENT_VERSION
