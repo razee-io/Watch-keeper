@@ -42,7 +42,7 @@
     "fs-extra": "^10.0.0",
     "JSONStream": "^1.3.5",
     "object-hash": "^2.2.0",
-    "object-path": "^0.11.5",
+    "object-path": "^0.11.8",
     "promise-retry": "^2.0.1",
     "request-promise-native": "^1.0.9",
     "requestretry": "^5.0.0",
